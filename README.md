@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=VishalBhardwaj-xe3&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296" height="170em" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=VishalBhardwaj-xe3&theme=radical&hide_border=false&background=091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=VishalBhardwaj-xe3&theme=radical&hide_border=false&background=091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 </div>
 
 ---
